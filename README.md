@@ -33,7 +33,7 @@ systems.
 The results of the meta-predictor together with the ones from the single ML method will be available in the output log 
 file (named "predictions_community" or "predictions_curated" based on the database type). 
 
-##Usage
+## Usage
 
 DocTOR has been developed in a conda environment, to avoid problems and for the best usage is suggested to use the yml 
  file provided
