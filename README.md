@@ -46,7 +46,7 @@ DocTOR has been developed in a conda environment, to avoid problems and for the 
 `conda activate DocTOR_env`  
 
 
-3. Download the trained models from <https://drive.google.com/drive/folders/1ge_ysgr_4kCBueTQZnCaIkwCfwhfSTIC?usp=sharing>
+3. Download the trained models from ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6337104.svg)
 
 
 4. Extract the various tar.gz files (The entire uncompressed folder is ~20GB)  
