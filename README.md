@@ -2,6 +2,8 @@
 This Repository represents the effort to obtain a predictor for single 
 proteins associated to Adverse Reactions (ADRs).
 
+*Galletti C, Aguirre-Plans J, Oliva B and Fernandez-Fuentes N (2022) Prediction of Adverse Drug Reaction Linked to Protein Targets Using Network-Based Information and Machine Learning. Front. Bioinform. 2:906644. doi: 10.3389/fbinf.2022.906644*
+
 DocTOR (Direct fOreCast Target On Reaction), is a utility written in
 python3.9 (using the conda workframe) that allows the user to upload
 a list of Uniprot IDs and Adverse reactions (from the available models) in order to study the 
